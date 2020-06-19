@@ -13,11 +13,16 @@
  *          => false => 값2
  */
 
+import java.util.*;
+// import java.lang.* ==>
+// 정수를 입력 받아서 짝수/홀수
 public class 이항연산자_정리 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Scanner scan=new Scanner(System.in);
+		// System.in : 키보드 입력
+		// System.out : 화면
 	}
 
 }
